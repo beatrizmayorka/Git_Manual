@@ -1,0 +1,16 @@
+body{
+    padding: 20px;
+    background: url("image/background-portal-github-01.jpeg") no-repeat 50%;
+    background-size: 100%;
+    opacity: 0.5;
+    color: #FFF;
+}
+
+h1{
+    padding: 39px 0 28px 107px;
+    background: url(image/github_PNG72.png) no-repeat 0 50%;
+    background-size: 82px;
+}
+h2, h3{
+    margin-left: 107px;
+}
